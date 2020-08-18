@@ -42,7 +42,7 @@ font-size: 125%;
 .column{
   float:left;
   width: 33.33%;
-  padding: 5px;
+  padding-top: 25px;
 
 }
 .column1{
@@ -52,6 +52,15 @@ font-size: 125%;
   padding-right:30px;
   padding-bottom: 50px;
   padding-left: 80px;
+}
+.column2{
+  float: right;
+  width:33.33%;
+  padding-top: 50px;
+  padding-right:30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
 }
 .row::after {
   content:"";
