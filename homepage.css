@@ -4,6 +4,18 @@
   margin-right: auto;
   width: 95%;
 }
+.center1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
+.center3 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
 body
 {
    background-color: #f3f3f3;
@@ -25,4 +37,24 @@ font-size: 125%;
   padding: 2% 5%;
   text-decoration: none;
   font-size: 109.5%;
+}
+
+.column{
+  float:left;
+  width: 33.33%;
+  padding: 5px;
+
+}
+.column1{
+  float: left;
+  width:33.33%;
+  padding-top: 50px;
+  padding-right:30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+.row::after {
+  content:"";
+  clear: both;
+  display: table
 }
