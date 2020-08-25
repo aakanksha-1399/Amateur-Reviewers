@@ -1,0 +1,41 @@
+.about{
+    margin-top: 8%;
+}
+
+.grid{
+    display: grid;
+    grid-template-rows: repeat(1,1fr);
+    grid-template-columns: repeat(3,1fr);
+
+}
+.aa{
+    box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 2%;
+    width: 95%;
+    height: 65%;
+}
+
+.aa1{
+    box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 2%;
+    width: 95%;
+    height: 45%;
+}
+
+
+.topnav{
+    background-color: #251f44;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .topnav a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 2% 7.5%;
+    text-decoration: none;
+    font-size: 110%;
+  }
