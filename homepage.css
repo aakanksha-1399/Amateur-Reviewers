@@ -61,7 +61,20 @@ font-size: 125%;
   text-align: justify;
   width: 100%
 }
+figure.item{
+  vertical-align: top;
+  display: inline-block;
+  text-align: justify;
+  width: 120px;
+}
+.caption{
+  display: block;
+}
+.img{
+  width: 100%;
+  height: 65%;
 
+}
 #seperate{
   display: grid;
   grid-template-rows:1fr 1fr;
