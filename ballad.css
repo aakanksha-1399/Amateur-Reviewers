@@ -6,24 +6,33 @@
     margin-left: 15%;
     margin-right: 15%;
     margin-top:5%;
-background-color: lightgoldenrodyellow;
 }
+.topnav{
+    background-color:#06623b;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin: 0%;
+  }
+
+.topnav a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 2% 7.5%;
+    text-decoration: none;
+    font-size: 110%;
+  }
 
 .block-quote{
-    color: darkgrey;
+    color:#032d3c;
     font-style: italic;
     margin: 0;
     padding-left: 70px;
     position:relative;
     display: block;
 }
-.topnav{
-    background-color: #251f44;
-    overflow: hidden;
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
   .textbackground{
       margin-top: 5%;
       margin-left: 5%;
