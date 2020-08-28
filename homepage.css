@@ -79,5 +79,25 @@ font-size: 125%;
   grid-template-columns:repeat(2,1fr);
   justify-content: center;
   text-align: center;
-  font-size: 225%;
+  font-size: 200%;
+}
+.home{
+  margin-top:15%;
+  margin-left:1.5%;
+  font-style: italic;
+  text-align: center;
+  font-size:50px;
+}
+.home1{
+  margin-left:1.5;
+  font-style: italic;
+  font-size: 25px;
+  text-align: center;
+}
+.white-background{
+  margin-top: 5%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+  background-color: lightgoldenrodyellow;
 }

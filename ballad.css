@@ -1,11 +1,34 @@
-.bg-image{
-    background-image: url("images/ballad.jpg");
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
-    height: 100%;
 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
+.ballad{
+    text-align: justify;
+    font-family:"Times New Roman", Times, serif;
+    font-size: 25px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top:5%;
+background-color: lightgoldenrodyellow;
 }
+
+.block-quote{
+    color: darkgrey;
+    font-style: italic;
+    margin: 0;
+    padding-left: 70px;
+    position:relative;
+    display: block;
+}
+.topnav{
+    background-color: #251f44;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  .textbackground{
+      margin-top: 5%;
+      margin-left: 5%;
+      margin-bottom: 5%;
+      margin-right: 5%;
+      background-color: lightgoldenrodyellow;
+  }
+  
