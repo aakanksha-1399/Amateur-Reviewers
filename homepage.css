@@ -5,12 +5,12 @@
   margin-right: auto;
   width: 95%;
 }
-.col1{
+/*.col1{
   width: 10%;
   float: left;
   border: 1.5% solid black;
 }
-
+*/
 .image_grid{
   display: grid;
   grid-template-columns:repeat(3,1fr);
@@ -46,23 +46,6 @@ font-style: oblique;
 font-size: 125%;
 }
 
-.topnav{
-  background-color: #251f44;
-  overflow: hidden;
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.topnav a{
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 2% 7.5%;
-  text-decoration: none;
-  font-size: 110%;
-}
-
 .img-with-text{
   text-align: justify;
   width: 100%
@@ -82,11 +65,11 @@ font-size: 125%;
   font-size: 200%;
 }
 .home{
-  margin-top:15%;
+  margin-top:6%;
   margin-left:1.5%;
   font-style: italic;
   text-align: center;
-  font-size:50px;
+  font-size:450%;
 }
 .home1{
   margin-left:1.5;
@@ -101,3 +84,6 @@ font-size: 125%;
   margin-left: 5%;
   background-color: lightgoldenrodyellow;
 }
+
+
+

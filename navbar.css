@@ -1,0 +1,41 @@
+
+.topnav{
+    background-color: #251f44;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .topnav a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 2% 7.5%;
+    text-decoration: none;
+    font-size: 110%;
+  }
+/*
+
+.menu_bar{
+    top: 0;
+    position: fixed;
+    width: 100%;
+    background: white;
+    text-align: center;
+
+}
+
+.menu_bar ul{
+    display: inline-flex;
+    list-style: none;
+    color: black;
+}
+
+.menu_bar ul li
+{
+    width: 1%;
+    margin: 5%;
+    padding: 10%;
+}
+*/
