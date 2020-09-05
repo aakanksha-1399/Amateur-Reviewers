@@ -6,6 +6,7 @@ a:link
 {
     color: #00416d;
 }
+
 a:hover
 {
     color:#cd0a0a;
@@ -15,10 +16,12 @@ a:hover
 .imagebox1{
     display: inline-block;
     vertical-align: top;
-    width: 30%;
-    margin-right: 3%;
+    width: 20%;
+    margin-right: 5%;
     text-align: center;
     margin-bottom: 47px;
+    margin-top: 2%;
+    margin-left:7%;
 
 }
 
@@ -26,11 +29,22 @@ a:hover
     display: inline-block;
     vertical-align: top;
     width: 30%;
-    margin-right: 3%;
+    margin-right: 5%;
     text-align: center;
-    margin-top: 0.5%;
+    margin-top: 2%;
 
 }
+.imagebox3{
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 5%;
+    text-align: center;
+    margin-top: 4.5%;
+
+}
+
+
 
 .header{
     margin-top: 10%;
