@@ -9,33 +9,10 @@
   
   .topnav a{
     float: left;
+    overflow: hidden;
     color: white;
     text-align: center;
-    padding: 2% 7.5%;
+    padding: 2% 6.5%;
     text-decoration: none;
-    font-size: 110%;
+    font-size: 155%;
   }
-/*
-
-.menu_bar{
-    top: 0;
-    position: fixed;
-    width: 100%;
-    background: white;
-    text-align: center;
-
-}
-
-.menu_bar ul{
-    display: inline-flex;
-    list-style: none;
-    color: black;
-}
-
-.menu_bar ul li
-{
-    width: 1%;
-    margin: 5%;
-    padding: 10%;
-}
-*/

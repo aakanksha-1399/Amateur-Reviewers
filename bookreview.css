@@ -12,7 +12,6 @@ a:hover
     color:#cd0a0a;
 }
 
-
 .imagebox1{
     display: inline-block;
     vertical-align: top;
@@ -22,19 +21,20 @@ a:hover
     margin-bottom: 47px;
     margin-top: 2%;
     margin-left:7%;
-
 }
 
-.imagebox2{
+.imagebox2
+{
     display: inline-block;
     vertical-align: top;
     width: 30%;
     margin-right: 5%;
     text-align: center;
     margin-top: 2%;
-
 }
-.imagebox3{
+
+.imagebox3
+{
     display: inline-block;
     vertical-align: top;
     width: 30%;
