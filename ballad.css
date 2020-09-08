@@ -7,15 +7,6 @@
     margin-right: 15%;
     margin-top:5%;
 }
-.topnav{
-    background-color:#06623b;
-    overflow: hidden;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    margin: 0%;
-  }
-
 .topnav a{
     float: left;
     color: white;
@@ -40,4 +31,11 @@
       margin-right: 5%;
       background-color: lightgoldenrodyellow;
   }
+  .header{
+    margin-top: 10%;
+    margin-left: 30%;
+    width: 100%;
+
+}
+
   

@@ -1,6 +1,7 @@
 
 .topnav{
-    background-color: #251f44;
+
+    background-color: solid #251f44;
     overflow: hidden;
     position: fixed;
     top: 0;
