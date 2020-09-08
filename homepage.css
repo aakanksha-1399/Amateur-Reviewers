@@ -79,6 +79,23 @@
   text-decoration: none;
   font-size: 155%;
 }
+
+.slideshow {
+  margin: 2% auto;
+  position: relative;
+  width: 20%;
+  height: 65%;
+  padding: 2%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.slide-change {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  right: 20px;
+  bottom: 1500px;
+}
 /*
 #summary{
 font-size: large;
