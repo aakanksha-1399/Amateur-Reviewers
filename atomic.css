@@ -41,9 +41,9 @@
   .right{
     display: inline-block;
     vertical-align: top;
-    width: 55%;
+    width: 50%;
     position: relative;
-    margin-left: 3%;
+    margin-left: 2%;
     border-left: 1px solid  #b1c4c4;
     padding-left: 6.4%;
 
@@ -64,11 +64,22 @@
     font-style: italic;
     border-bottom: 1px solid  #b1c4c4 ;
     padding-bottom: 2%;
-    
   }
-  .rating{
-    border-top:1px solid  #b1c4c4 ;
-    padding-top: 14px;
-    margin-top: 37px;
-  }
+  
+  .rating_bar_empty{
+    width: 80px;
+    height: 16px;
+    background: url(images/stars.png);
+    background-repeat: repeat-x; 
+    background-position: 0 0;
+    text-align: left;
+    margin-left: 35%;
+}
 
+.rating
+{
+    height: 16px;
+    background: url(images/stars.png);
+    background-position: 0 -16px;
+    background-repeat: repeat-x;
+}

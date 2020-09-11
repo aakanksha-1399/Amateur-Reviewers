@@ -8,19 +8,63 @@
 }
 
 
-.topnav{
-    background-color: seagreen;
-    overflow: hidden;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    margin: 0%;
+.left{
+
+    display:inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-top: 5%;
+    margin-left: 5%;
   }
-  .topnav a{
-    float: left;
-    color: white;
+  .right{
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    position: relative;
+    margin-left: 2%;
+    border-left: 1px solid  #b1c4c4;
+    padding-left: 6.4%;
+
+    
+  }
+  .headings{
+    border-bottom: 1px solid #b1c4c4;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  .head h1{
     text-align: center;
-    padding: 2% 7.5%;
-    text-decoration: none;
-    font-size: 110%;
+    font-size: 38px;
+    font-weight: 450;
+    color: black;
+    font-style: italic;
+    border-bottom: 1px solid  #b1c4c4 ;
+    padding-bottom: 2%;
+    border-top: 1px solid  #b1c4c4;
   }
+  
+  .rating_bar_empty{
+    width: 80px;
+    height: 16px;
+    background: url(images/stars.png);
+    background-repeat: repeat-x; 
+    background-position: 0 0;
+    text-align: left;
+    margin-left: 35%;
+}
+
+.rating
+{
+    height: 16px;
+    background: url(images/stars.png);
+    background-position: 0 -16px;
+    background-repeat: repeat-x;
+}
+ .header{
+    margin-top: 10%;
+    margin-left: 30%;
+    width: 100%;
+
+}
