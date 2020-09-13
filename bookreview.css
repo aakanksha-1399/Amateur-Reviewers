@@ -20,38 +20,62 @@ a:hover
     text-align: center;
     margin-bottom: 47px;
     margin-top: 2%;
-    margin-left:7%;
+    margin-left:9%;
 }
 
-.imagebox2
-{
+.imagebox2{
     display: inline-block;
     vertical-align: top;
-    width: 30%;
-    margin-right: 5%;
+    width: 20%;
     text-align: center;
-    margin-top: 2%;
+    margin-top: 3%;
+    height: 40%;
+    margin-left:5%;
+
 }
 
-.imagebox3
-{
+.imagebox3{
     display: inline-block;
     vertical-align: top;
-    width: 30%;
-    margin-right: 5%;
+    width: 20%;
+    margin-left: 10%;
     text-align: center;
-    margin-top: 4.5%;
+    margin-top: 3%;
+    height: 40%;
+
 
 }
 
+.imagebox4{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    text-align: center;
+    margin-top: 2.5%;
+    height: 40%;
+    margin-left:25%;
+    margin-right:3%;
 
+}
 
+.imagebox5{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    text-align: center;
+    margin-top: 2.5%;
+    height: 40%;
+    margin-right:10%;
+    margin-left:5%;
+
+}
 .header{
     margin-top: 10%;
     margin-left: 30%;
     width: 100%;
 
 }
+
 /*
 #divider{
     width: 100%;
