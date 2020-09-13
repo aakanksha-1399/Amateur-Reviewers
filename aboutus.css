@@ -1,5 +1,5 @@
 .about{
-    margin-top: 8%;
+    margin-top: 5%;
 }
 .home{
     margin-top: 15%;
@@ -12,11 +12,18 @@
     margin-left: 20%;
 
 }
-.aakanpra{
+.aakan{
     box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin: 2%;
     width: 20%;
-    height: 50%;
+    height: 70%;
+}
+.pra{
+    box-shadow: 1px 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 2%;
+    width: 20%;
+    height: 70%;
+
 }
 
 .siddhi{
@@ -24,6 +31,7 @@
     margin: 2%;
     width: 20%;
     height: 50%;
+    font-size: larger;
 }
 
 
@@ -47,3 +55,18 @@
       border-radius:50%;
 
   }
+  .header{
+    margin-top: 10%;
+    margin-left: 30%;
+    width: 100%;
+
+}
+.about1{
+    border-top: 1px solid #b1c4c4;
+    border-bottom: 1px solid #b1c4c4;
+    position: relative;
+    width: 70%;
+    margin-left: 17%;
+    margin-bottom: 5%;
+}
+

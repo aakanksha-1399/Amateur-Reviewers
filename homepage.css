@@ -96,7 +96,7 @@
   width: 30%;
   overflow: hidden;
   border: 5px solid black;
-  position: relative;
+  position:relative;
 }
 
 .image-slide{ 
