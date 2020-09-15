@@ -93,7 +93,8 @@
   margin-top: 5%;
   margin-left:20%;
   box-sizing: border-box;
-  width: 30%;
+  width: 60%;
+  height: 60%;
   overflow: hidden;
   border: 5px solid black;
   position:relative;
